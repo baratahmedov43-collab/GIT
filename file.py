@@ -1,2 +1,2 @@
 a, b = input("Введите два целых числа через пробел: ").split()
-print(a, b)
+print(int(a) * int(b))
